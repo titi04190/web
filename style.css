@@ -1,0 +1,12 @@
+h1 {
+    border-color: blue;
+    color: rgb(37, 40, 226);
+    background-color: #F2F527;
+    font-weight: bold;
+    border-width: 15px;
+}
+
+header {
+    border:solid rgb(37, 40, 226);
+    margin: 0 25%;
+}
